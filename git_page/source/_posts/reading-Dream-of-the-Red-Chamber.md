@@ -2,8 +2,10 @@
 title: 红楼梦札记
 thumbnail: /gallery/thumbnails/0_Obsidian Woods, Anton Fadeev_01.jpg
 date: 2019-04-23 10:56:34
-tags: [Book]
-categories: [Reading]
+tags: 
+    - 红楼梦
+categories: 
+    - 随笔
 ---
 
 ## 小记

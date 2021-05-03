@@ -2,8 +2,12 @@
 title: 2017浙江省赛
 thumbnail: /gallery/thumbnails/0_Magmar, Anton Fadeev_02.jpg
 date: 2019-04-12 16:57:53
-tags: [Data structure, Dynamic programming]
-categories: [Competition]
+tags: 
+    - 数据结构
+    - 动态规划
+    - 旅游
+categories: 
+    - 竞赛
 ---
 
 ## 碎碎念

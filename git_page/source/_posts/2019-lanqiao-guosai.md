@@ -3,7 +3,9 @@ title: 2019-蓝桥杯国赛
 thumbnail: /gallery/thumbnails/0_Monolith - view1, Anton Fadeev_01.jpg
 date: 2019-05-30 12:52:38
 tags: 
-categories: [Competition]
+    - 旅游
+categories: 
+    - 竞赛
 ---
 
 # 碎碎念
@@ -12,7 +14,7 @@ categories: [Competition]
 
 ## Day1
 
-第一年没比赛，本来以为是需要取报道的，结果不用。也没有其他的安排，就去故宫了。下午还去了北大，自己瞎逛没见到图书馆。
+第一年没比赛，本来以为是需要去报道的，结果不用。也没有其他的安排，就去故宫了。下午还去了北大，自己瞎逛没见到图书馆。
 
 ## Day2
 

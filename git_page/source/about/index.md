@@ -1,5 +1,5 @@
 ---
-title: about
+title: About Me
 date: 2019-04-11 21:37:26
 thumbnail: /gallery/thumbnails/0_Windcliffe, Anton Fadeev_01.jpg
 ---
@@ -8,9 +8,11 @@ thumbnail: /gallery/thumbnails/0_Windcliffe, Anton Fadeev_01.jpg
 
 Hello, I'm Dicer.
 
-欢迎来到我的小站，本站点仅用于存放个人`blog`和`日记`，所有内容由本人编撰或来自网络，如有侵权请联系我，Contact Me On Email：dicer0615@outlook.com。
+Welcome to my site that is used to store my blogs and diarys.
+
+All of the contents are created by Myself or captured from Internet. If existed any tort, please contact to me: dicer0615@gmail.com
 
 ---
 
-本站超酷的图片来自俄罗斯画师：`Anton Fadeev`，<i class="far fa-hand-point-right" style="color:blue"></i>[Ta的主页](https://www.artstation.com/shant)
+Some awesome works created by `Anton Fadeev`，<i class="far fa-hand-point-right" style="color:blue"></i>[Click to see all works of Anton](https://www.artstation.com/shant)
 

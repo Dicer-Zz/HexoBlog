@@ -2,8 +2,10 @@
 title: 牛客小白赛15
 thumbnail: /gallery/thumbnails/2_Sea Landscapes, Anton Fadeev_03.jpg
 date: 2019-06-16 12:52:25
-tags: [线段树]
-categories: [数据结构]
+tags: 
+    - 数据结构
+    - 线段树
+categories: 
 ---
 
 # 题目

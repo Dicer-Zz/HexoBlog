@@ -2,8 +2,10 @@
 title: 使用HTTP协议实现内网文件传输
 thumbnail: /gallery/thumbnails/http.png
 date: 2019-06-25 20:10:28
-tags: [http]
-categories: [网络协议]
+tags: 
+   - HTTP
+categories: 
+   - 网络
 ---
 
 # 需求

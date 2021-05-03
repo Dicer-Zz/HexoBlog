@@ -2,8 +2,9 @@
 title: hexo博客搭建总结
 thumbnail: /gallery/thumbnails/0_Crystal Caverns , Anton Fadeev_01.jpg
 date: 2019-04-11 21:50:15
-tags: [SSH, Server, hexo]
-categories: [Technology]
+tags: 
+   - Hexo
+categories: 
 ---
 
 ## 序言

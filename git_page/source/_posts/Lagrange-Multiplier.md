@@ -2,8 +2,10 @@
 title: 拉格朗日乘数法
 thumbnail: /gallery/others/LagrangeMultipliers2D.svg
 date: 2019-07-19 15:53:05
-tags: [拉格朗日乘数法]
-categories: [数论]
+tags: 
+    - 拉格朗日乘数法
+    - 数论
+categories: 
 ---
 
 简单来说，拉格朗日乘子法可以解决$f(\hat x)$在一些限制条件$g_k(\hat x) = c_k$下的极值。
@@ -24,13 +26,13 @@ $$L(x,y,z,\lambda) = f - \lambda \cdot g$$
 
 然后对各个变量求偏导数：
 
-$$\frac{\partial L}{\partial x} = y^b\cdot z^c \cdot ax^{a-1} - \lambda​$$
+$$\frac{\partial L}{\partial x} = y^b\cdot z^c \cdot ax^{a-1} - \lambda$$
 
-$$\frac{\partial L}{\partial y} = x^a\cdot z^c \cdot by^{b-1} - \lambda​$$
+$$\frac{\partial L}{\partial y} = x^a\cdot z^c \cdot by^{b-1} - \lambda$$
 
-$$\frac{\partial L}{\partial z} = x^a\cdot y^b \cdot cz^{c-1} - \lambda​$$
+$$\frac{\partial L}{\partial z} = x^a\cdot y^b \cdot cz^{c-1} - \lambda$$
 
-$$\frac{\partial L}{\partial \lambda} = x + y + z - S​$$
+$$\frac{\partial L}{\partial \lambda} = x + y + z - S$$
 
 可以解出：
 
@@ -38,7 +40,7 @@ $$\frac{x}{a} = \frac{y}{b} = \frac{z}{c}$$
 
 所以：
 
-$$x = \frac{S\cdot a}{a+b+c}, y = \frac{S\cdot b}{a+b+c}, z = \frac{S\cdot c}{a+b+c}​$$
+$$x = \frac{S\cdot a}{a+b+c}, y = \frac{S\cdot b}{a+b+c}, z = \frac{S\cdot c}{a+b+c}$$
 
 ### 代码
 
@@ -84,13 +86,13 @@ $$f(\boldsymbol w) = \sum_{i=1}^{n}{(w_i^2 \cdot \sigma_i^2)} = \sum_{i=1}^{n}(w
 
 拉格朗日方程：
 
-$$L(\boldsymbol w, \lambda) = f(\boldsymbol w) - \lambda \cdot g(\boldsymbol w)​$$
+$$L(\boldsymbol w, \lambda) = f(\boldsymbol w) - \lambda \cdot g(\boldsymbol w)$$
 
-分别对 $\boldsymbol w , \lambda​$ 求导：
+分别对 $\boldsymbol w , \lambda$ 求导：
 
 $$\frac{\partial(L)}{\partial(w_i)} = 2 \frac{w_i}{i} - \lambda$$
 
-$$\frac{\partial(L)}{\partial(\lambda)} = g(\boldsymbol{w}) = 1 - \sum_{i=1}^{n}{w_i}​$$
+$$\frac{\partial(L)}{\partial(\lambda)} = g(\boldsymbol{w}) = 1 - \sum_{i=1}^{n}{w_i}$$
 
 则有：
 
@@ -102,7 +104,7 @@ $$\sum_{i=1}^{n}{w_i} = \frac{\lambda \cdot \sum_{i=1}^{n}(i)}{2} = \frac
 {\lambda \cdot n(n+1)}{4} = 1$$
 
 则：
-$$\lambda = \frac{4}{n(n+1)}​$$
+$$\lambda = \frac{4}{n(n+1)}$$
 
 $$w_i = \frac{\lambda \cdot i}{2} = \frac{2\cdot i}{n(n+1)}$$
 
@@ -112,7 +114,7 @@ $$V = \sum_{i=1}^{n}{w_i^2\times \sigma_i^2 } = \sum_{i=1}^{n}{\frac{4\cdot i}(n
 
 $$E = \sum_{i=1}^{n}{w_i \times \bar r_i} = \sum_{i=1}^{n}\frac{(2\cdot i \cdot \bar r_i)}{n(n+1)}$$
 
-然后就可以愉快的$O(n)​$解决了。
+然后就可以愉快的$O(n)$解决了。
 
 ### 代码
 ~~~c++

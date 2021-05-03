@@ -2,8 +2,12 @@
 title: 洛谷-P3806
 thumbnail: /gallery/thumbnails/1_Construction of the Monolith, Anton Fadeev_02.jpg
 date: 2019-09-28 19:33:57
-tags: [点分治, 树形动规]
-categories: [图论]
+tags: 
+    - 点分治
+    - 动态规划
+    - 图论
+categories: 
+    - 竞赛
 ---
 
 # 题目

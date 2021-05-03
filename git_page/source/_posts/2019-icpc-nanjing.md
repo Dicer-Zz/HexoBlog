@@ -2,8 +2,14 @@
 title: 2019-ICPC-南京网络赛
 thumbnail: /gallery/thumbnails/sylvain-sarrailh-wandering.jpg
 date: 2019-09-05 13:27:06
-tags: [树状数组, 欧拉定理, 欧拉函数]
-categories: [数据结构, 数论]
+tags: 
+    - 树状数组
+    - 欧拉定理
+    - 欧拉函数
+    - 数据结构
+    - 数论
+categories: 
+    - [竞赛, ICPC]
 ---
 
 # 题目
@@ -173,7 +179,7 @@ int main() {
 
 ### 扩展欧拉定理
 
-$$a^b \equiv \begin{cases} a^b & b < \varphi(m) \\ a^{b \bmod \varphi(m) + \varphi(m)} & b \ge \varphi(m) \\ \end{cases}\bmod m​$$
+$$a^b \equiv \begin{cases} a^b & b < \varphi(m) \\ a^{b \bmod \varphi(m) + \varphi(m)} & b \ge \varphi(m) \\ \end{cases}\bmod m$$
 
 ### 快速幂
 

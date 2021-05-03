@@ -1,0 +1,19 @@
+widgets:
+    -
+        position: left
+        type: profile
+        author: Dicer
+        author_title: Trying to reach the star.
+        avatar_rounded: true
+    -
+        position: left
+        type: toc
+        index: true
+        collapsed: true
+        depth: 3
+    -
+        position: left
+        type: recent_posts
+sidebar:
+    left:
+        sticky: true

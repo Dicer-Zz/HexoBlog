@@ -2,8 +2,9 @@
 title: Codeforces-568-G1
 thumbnail: /gallery/thumbnails/0_Kaero, Anton Fadeev_01.jpg
 date: 2019-06-24 00:16:41
-tags: [状压DP]
-categories: [动态规划]
+tags: 
+    - 动态规划
+categories: 
 ---
 
 # 题目
@@ -24,7 +25,7 @@ categories: [动态规划]
 
 那么，我们的主要问题就变成了，求解宿舍楼安装空调最合适的顺序。
 
-定义$dp[sta]$表示状态为$sta$时的最少抗议人数，$cost[i][j]$表示第$i$幢寝室楼第$j​$个空调的贪心值。
+定义$dp[sta]$表示状态为$sta$时的最少抗议人数，$cost[i][j]$表示第$i$幢寝室楼第$j$个空调的贪心值。
 
 那么我们可以这样更新：
 

@@ -2,8 +2,9 @@
 title: Codeforces-1207-F
 thumbnail: /gallery/thumbnails/girl-pick.jpg
 date: 2019-08-29 21:56:34
-tags: [瞎搞]
-categories: [数据结构]
+tags: 
+	- 数据结构
+categories: 
 ---
 
 ## 题目

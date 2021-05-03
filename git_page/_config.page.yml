@@ -1,0 +1,19 @@
+widgets:
+    -
+        position: left
+        type: profile
+        author: Dicer
+        author_title: Trying to reach the star.
+        avatar_rounded: true
+    -
+        position: left
+        type: links
+        links:
+            Todest: 'https://blog.todest.cn/'
+            Codancer: 'https://hpumengzhao.github.io/'
+            执念: 'https://blog.wzy1999.wang/'
+            辞树: 'https://blog.csdn.net/l18339702017'
+            JQM: 'http://jinqimu.xyz/'
+sidebar:
+    left:
+        sticky: true

@@ -2,8 +2,10 @@
 title: Codeforces-622-F
 thumbnail: /gallery/thumbnails/Lagrange_polynomial.svg
 date: 2019-06-18 10:43:58
-tags: [拉格朗日插值法]
-categories: [数论]
+tags: 
+	- 拉格朗日插值法
+	- 数论
+categories: 
 ---
 
 # 题目
@@ -26,25 +28,25 @@ categories: [数论]
 
 $$F(n) = \sum_{i=1}^{k+2}F(i) \times P(i) $$
 
-$$P(i) = \prod_{j=1, j \neq i}^{k+2}\frac{n-j}{i-j}​$$
+$$P(i) = \prod_{j=1, j \neq i}^{k+2}\frac{n-j}{i-j}$$
 
 所以
 
-$$F(n) = \sum_{i=1}^{k+2}F(i) \times \prod_{j=1, j \neq i}^{k+2}\frac{n-j}{i-j} \\ = \sum_{i=1}^{k+2}F(i) \times \frac{\prod_{j=1, j \neq i}^{k+2}n-j}{\prod_{j=1, j \neq i}^{k+2}{i-j}}​$$
+$$F(n) = \sum_{i=1}^{k+2}F(i) \times \prod_{j=1, j \neq i}^{k+2}\frac{n-j}{i-j} \\ = \sum_{i=1}^{k+2}F(i) \times \frac{\prod_{j=1, j \neq i}^{k+2}n-j}{\prod_{j=1, j \neq i}^{k+2}{i-j}}$$
 
-但是这个公式的复杂度时$O(k^2)​$的，我们再优化一下。
+但是这个公式的复杂度时$O(k^2)$的，我们再优化一下。
 
 设$T = \prod_{j=1}^{k+2}{n-j}$，则
 
-$$\prod_{j=1, j \neq i}^{k+2}n-j = \frac{T}{n-i}​$$
+$$\prod_{j=1, j \neq i}^{k+2}n-j = \frac{T}{n-i}$$
 
-对于$\prod_{j=1, j \neq i}^{k+2}{i-j}​$，我们将它分成$i\lt j​$和$i\gt j​$两部分来考虑，
+对于$\prod_{j=1, j \neq i}^{k+2}{i-j}$，我们将它分成$i\lt j$和$i\gt j$两部分来考虑，
 
-$$\prod_{j=1, j \neq i}^{k+2}{i-j} = (i-1)!\times(k+2-i)!\times (-1)^{k+2-i}​$$
+$$\prod_{j=1, j \neq i}^{k+2}{i-j} = (i-1)!\times(k+2-i)!\times (-1)^{k+2-i}$$
 
 带入原式，得：
 
-$$F(n) = \sum_{i=1}^{k+2}(F(i)\times\frac{T}{n-i}\times\frac{1}{(i-1)!\times(k+2-i)!\times (-1)^{k+2-i}})​$$
+$$F(n) = \sum_{i=1}^{k+2}(F(i)\times\frac{T}{n-i}\times\frac{1}{(i-1)!\times(k+2-i)!\times (-1)^{k+2-i}})$$
 
 至此，我们可以通过打表的方式，在$O(k)$时间内得到$F(n)$了。
 

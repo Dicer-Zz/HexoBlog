@@ -2,8 +2,9 @@
 title: luogu-P1131
 thumbnail: /gallery/thumbnails/hei3.jpg
 date: 2019-09-18 23:07:13
-tags: [dfs]
-categories: [搜索]
+tags: 
+    - 搜索
+categories: 
 ---
 
 # 题目

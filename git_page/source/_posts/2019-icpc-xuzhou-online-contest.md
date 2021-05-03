@@ -2,8 +2,13 @@
 title: 2019-icpc-徐州网赛
 thumbnail: /gallery/thumbnails/hei.jpg
 date: 2019-09-09 10:43:00
-tags: [中国剩余定理, 二维偏序, 单调队列, 树形动规]
-categories: [Competition]
+tags: 
+	- 中国剩余定理
+	- 二维偏序
+	- 单调队列
+	- 树形动规
+categories: 
+	- [竞赛, ICPC]
 ---
 
 # 题目
@@ -146,7 +151,7 @@ int main(int argc, char const *argv[])
 
 这就是一个经典的二位偏序问题了，直接对一维排序，二维用树状数组维护一下就好了。
 
-时间复杂度：$O(n\cdot \log n)​$  
+时间复杂度：$O(n\cdot \log n)$  
 
 ~~~c++
 #include <bits/stdc++.h>
@@ -255,7 +260,7 @@ function DFS(x)
 
 后半段的处理是基于这样一个原因：
 
-假设节点取到最大值的概率为p，那么对于一个节点 $x​$ 有：
+假设节点取到最大值的概率为p，那么对于一个节点 $x$ 有：
 
 $$p[x] = 1 - (1 - \frac{\sum_{son \in sons[x]}p[son]}{|sons[x]|})^{|sons[x]|} $$
 
