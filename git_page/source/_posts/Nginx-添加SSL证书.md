@@ -11,8 +11,6 @@ categories:
     - 网络
 ---
 
-# 为什么
-
 在使用Chrome浏览器时，访问没有SSL的网页时会提醒网页不安全，添加过SSL证书之后，会有一个小锁，很好看。
 
 HTTP vs HTTPS: https://www.runoob.com/w3cnote/http-vs-https.html
