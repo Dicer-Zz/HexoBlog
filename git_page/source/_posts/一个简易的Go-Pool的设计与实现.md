@@ -1,6 +1,6 @@
 ---
 title: 一个简易的Go Pool的设计与实现
-thumbnail: /gallery/thumbnails/Goroutine.png
+cover: /gallery/thumbnails/Goroutine.png
 date: 2021-02-25 11:23:27
 tags: 
    - 并发

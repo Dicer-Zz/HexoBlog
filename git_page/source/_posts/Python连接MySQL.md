@@ -1,6 +1,6 @@
 ---
 title: Python连接MySQL
-thumbnail: /gallery/thumbnails/Mariadb.png
+cover: /gallery/thumbnails/Mariadb.png
 date: 2021-03-10 17:12:13
 tags: 
   - MySQL

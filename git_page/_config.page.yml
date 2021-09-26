@@ -9,6 +9,7 @@ widgets:
         position: left
         type: links
         links:
+            小席: 'https://weibo.com/u/5194386621'
             Todest: 'https://blog.todest.cn/'
             Codancer: 'https://hpumengzhao.github.io/'
             执念: 'https://blog.wzy1999.wang/'

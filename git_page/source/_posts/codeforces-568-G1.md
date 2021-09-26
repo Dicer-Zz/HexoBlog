@@ -1,6 +1,6 @@
 ---
 title: Codeforces-568-G1
-thumbnail: /gallery/thumbnails/0_Kaero, Anton Fadeev_01.jpg
+cover: /gallery/thumbnails/0_Kaero, Anton Fadeev_01.jpg
 date: 2019-06-24 00:16:41
 tags: 
     - 动态规划

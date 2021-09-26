@@ -1,6 +1,6 @@
 ---
 title: 2017浙江省赛
-thumbnail: /gallery/thumbnails/0_Magmar, Anton Fadeev_02.jpg
+cover: /gallery/thumbnails/0_Magmar, Anton Fadeev_02.jpg
 date: 2019-04-12 16:57:53
 tags: 
     - 数据结构

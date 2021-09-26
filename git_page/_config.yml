@@ -45,10 +45,14 @@ per_page: 15
 pagination_dir: page
 theme: icarus
 deploy:
-  # type: git
-  # repo: 'git@47.101.66.37:/home/git/blog.git'
-  # branch: master
-  # message: '爷爷奶奶你关注的博主更新啦！'
+#   type: git
+#   repo: 'git@47.101.66.37:/home/git/blog.git'
+#   branch: master
+#   message: '爷爷奶奶你关注的博主更新啦！'
+#   type: git
+#   repo: https://github.com/Dicer-Zz/Dicer-Zz.github.io.git
+#   branch: master
+#   message: '爷爷奶奶你关注的博主更新啦！'
   type: git
   repo: 'git@42.193.228.103:/home/git/hexo_blog'
   branch: master

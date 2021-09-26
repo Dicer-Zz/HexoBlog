@@ -1,6 +1,6 @@
 ---
 title: 红楼梦札记
-thumbnail: /gallery/thumbnails/0_Obsidian Woods, Anton Fadeev_01.jpg
+cover: /gallery/thumbnails/0_Obsidian Woods, Anton Fadeev_01.jpg
 date: 2019-04-23 10:56:34
 tags: 
     - 红楼梦

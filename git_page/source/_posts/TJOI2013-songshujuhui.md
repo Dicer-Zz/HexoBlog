@@ -1,6 +1,6 @@
 ---
 title: TJOI2013-松鼠聚会
-thumbnail: /gallery/thumbnails/johannes-roots-in-the-treetops-by-jkroots-d9t9p4y.jpg
+cover: /gallery/thumbnails/johannes-roots-in-the-treetops-by-jkroots-d9t9p4y.jpg
 date: 2019-09-05 21:47:23
 tags: 
     - 几何

@@ -1,6 +1,6 @@
 ---
 title: CODEVS-2370-小机房的树
-thumbnail: /gallery/thumbnails/0_Obsidian woods_2, Anton Fadeev_01.jpg
+cover: /gallery/thumbnails/0_Obsidian woods_2, Anton Fadeev_01.jpg
 date: 2019-08-06 19:57:30
 tags: 
     - LCA

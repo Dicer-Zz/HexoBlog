@@ -1,7 +1,7 @@
 ---
 
 title: 牛客练习赛-53B
-thumbnail: /gallery/thumbnails/post-bg-red-moon.jpg
+cover: /gallery/thumbnails/post-bg-red-moon.jpg
 date: 2019-10-12 12:56:03
 tags: 
     - 数论

@@ -1,6 +1,6 @@
 ---
 title: 2019-ICPC-南京网络赛
-thumbnail: /gallery/thumbnails/sylvain-sarrailh-wandering.jpg
+cover: /gallery/thumbnails/sylvain-sarrailh-wandering.jpg
 date: 2019-09-05 13:27:06
 tags: 
     - 树状数组

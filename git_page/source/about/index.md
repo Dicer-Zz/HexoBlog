@@ -1,18 +1,15 @@
 ---
-title: About Me
+title: Welcome
 date: 2019-04-11 21:37:26
 thumbnail: /gallery/thumbnails/0_Windcliffe, Anton Fadeev_01.jpg
 ---
 
-## Welcome!
+## Hi, I'm Dicer
 
-Hello, I'm Dicer.
+欢迎你来到我的博客，这是一个关于技术的博客。
 
-Welcome to my site that is used to store my blogs and diarys.
+我目前在华东师范大学读研，研究方向是自然语言处理。如果有任何问题或者合作都可以联系我。
 
-All of the contents are created by Myself or captured from Internet. If existed any tort, please contact to me: dicer0615@gmail.com
+微信：Dicer__（有两个下划线哦）
 
----
-
-Some awesome works created by `Anton Fadeev`，<i class="far fa-hand-point-right" style="color:blue"></i>[Click to see all works of Anton](https://www.artstation.com/shant)
-
+Email: dicer0615@gmail.com

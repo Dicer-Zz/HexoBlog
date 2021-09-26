@@ -1,6 +1,6 @@
 ---
 title: 基于高德地图 API 的 Web 课程设计
-thumbnail: /gallery/thumbnails/gate-wall.jpg
+cover: /gallery/thumbnails/gate-wall.jpg
 date: 2019-12-28 13:34:14
 tags: 
     - Web

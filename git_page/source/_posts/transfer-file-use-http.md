@@ -1,6 +1,6 @@
 ---
 title: 使用HTTP协议实现内网文件传输
-thumbnail: /gallery/thumbnails/http.png
+cover: /gallery/thumbnails/http.png
 date: 2019-06-25 20:10:28
 tags: 
    - HTTP

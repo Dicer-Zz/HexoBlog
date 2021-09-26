@@ -1,6 +1,6 @@
 ---
 title: 2019-蓝桥杯国赛
-thumbnail: /gallery/thumbnails/0_Monolith - view1, Anton Fadeev_01.jpg
+cover: /gallery/thumbnails/0_Monolith - view1, Anton Fadeev_01.jpg
 date: 2019-05-30 12:52:38
 tags: 
     - 旅游

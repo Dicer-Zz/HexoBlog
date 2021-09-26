@@ -1,6 +1,6 @@
 ---
 title: 2019-ICPC-沈阳网络赛-D
-thumbnail: /gallery/thumbnails/1_Rasha 2, Anton Fadeev_02.jpg
+cover: /gallery/thumbnails/1_Rasha 2, Anton Fadeev_02.jpg
 date: 2019-09-28 23:12:17
 tags: 
     - 点分治

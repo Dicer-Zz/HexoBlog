@@ -1,6 +1,6 @@
 ---
 title: 拉格朗日乘数法
-thumbnail: /gallery/others/LagrangeMultipliers2D.svg
+cover: /gallery/others/LagrangeMultipliers2D.svg
 date: 2019-07-19 15:53:05
 tags: 
     - 拉格朗日乘数法

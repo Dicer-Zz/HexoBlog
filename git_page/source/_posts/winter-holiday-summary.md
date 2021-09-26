@@ -1,6 +1,6 @@
 ---
 title: 学期总结
-thumbnail: /gallery/thumbnails/roman-kraft-WUvBROPOsuo-unsplash.jpg
+cover: /gallery/thumbnails/roman-kraft-WUvBROPOsuo-unsplash.jpg
 date: 2020-01-11 12:22:56
 tags: 
     - 旅游

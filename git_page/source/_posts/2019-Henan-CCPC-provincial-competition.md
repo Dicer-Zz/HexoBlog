@@ -1,6 +1,6 @@
 ---
 title: 2019CCPC河南省省赛
-thumbnail: /gallery/thumbnails/0_Green sketches , Anton Fadeev_01.jpg
+cover: /gallery/thumbnails/0_Green sketches , Anton Fadeev_01.jpg
 date: 2019-04-13 19:43:29
 tags: 
     - 旅游

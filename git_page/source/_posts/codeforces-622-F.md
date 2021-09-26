@@ -1,6 +1,6 @@
 ---
 title: Codeforces-622-F
-thumbnail: /gallery/thumbnails/Lagrange_polynomial.svg
+cover: /gallery/thumbnails/Lagrange_polynomial.svg
 date: 2019-06-18 10:43:58
 tags: 
 	- 拉格朗日插值法

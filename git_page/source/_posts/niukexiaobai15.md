@@ -1,6 +1,6 @@
 ---
 title: 牛客小白赛15
-thumbnail: /gallery/thumbnails/2_Sea Landscapes, Anton Fadeev_03.jpg
+cover: /gallery/thumbnails/2_Sea Landscapes, Anton Fadeev_03.jpg
 date: 2019-06-16 12:52:25
 tags: 
     - 数据结构

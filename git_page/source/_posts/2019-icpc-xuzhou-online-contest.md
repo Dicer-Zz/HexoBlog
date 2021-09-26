@@ -1,6 +1,6 @@
 ---
 title: 2019-icpc-徐州网赛
-thumbnail: /gallery/thumbnails/hei.jpg
+cover: /gallery/thumbnails/hei.jpg
 date: 2019-09-09 10:43:00
 tags: 
 	- 中国剩余定理

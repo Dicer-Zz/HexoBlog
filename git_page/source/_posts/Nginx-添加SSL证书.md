@@ -1,6 +1,6 @@
 ---
 title: Nginx 添加SSL证书
-thumbnail: /gallery/thumbnails/SSL.png
+cover: /gallery/thumbnails/SSL.png
 date: 2021-03-14 21:51:47
 toc: true
 tags: 

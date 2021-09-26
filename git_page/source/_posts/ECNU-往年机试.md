@@ -1,6 +1,6 @@
 ---
 title: ECNU 往年机试
-thumbnail: /gallery/thumbnails/kite.png
+cover: /gallery/thumbnails/kite.png
 date: 2021-03-08 17:27:28
 tags: 
 	- 考研
